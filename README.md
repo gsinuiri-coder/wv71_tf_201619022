@@ -1,1 +1,3 @@
-# wv71_tf_201619022
+## Integrantes:
+
+- Giancarlo Sinuiri Mozombite u201619022
