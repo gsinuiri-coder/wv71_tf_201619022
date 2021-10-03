@@ -35,3 +35,17 @@
 4. Espacio de Búsqueda.
 
 ![espacio de busqueda - copia](https://user-images.githubusercontent.com/71910095/135762117-6d4905fe-bced-4272-949d-9c76964dee12.png)
+
+ ## Reporte de actividades.
+ 
+ 1. Giancarlo Sinuiri
+
+- Actualizar lista de integrantes. (issue)
+- Generar primera versión de almacenes.csv
+- Generar primera versión de puntos_entrega.csv
+- Generar descripción de datos de vehículos de entrega indicando según su criterio, calculo de costo.
+- Definir espacio de búsqueda, estado inicial, posible estado final, transiciones.
+- Definir algoritmo integrante 1 en alto nivel con posible análisis asintótico.
+- Producir reporte de actividades.
+- Incluir URL de video en youtube (u otro servicio) no listado (compartido por URL, privado) en el archivo README.md de un video elaborado de máximo 1 minuto explicando actividades realizadas.
+
