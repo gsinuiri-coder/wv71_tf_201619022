@@ -14,3 +14,24 @@
   - 1 tonelada capacidad de carga.
 
    Se prodria plantear como reto optimizar la capacidad de carga.
+
+## Definir espacio de búsqueda, estado inicial, posible estado final, transiciones.
+
+1. Estado inicial.
+
+![inicial](https://user-images.githubusercontent.com/71910095/135761979-a8ce2089-fb20-47ef-a88e-bc791dbe1fa1.PNG)
+
+2. Estado final
+
+![final](https://user-images.githubusercontent.com/71910095/135761999-fca6ae1b-0f02-4405-a441-7342623799d4.png)
+
+3. Transiciones.
+
+- Distancia máxima a los lados 9km.
+- Capacidad de recorrido 50km
+- Movimiento hacia los puntos no recorridos.
+- Si todos los puntos de entrega estan visitados, regresar al almacen por el camino más corto.
+
+4. Espacio de Búsqueda.
+
+![espacio de busqueda - copia](https://user-images.githubusercontent.com/71910095/135762117-6d4905fe-bced-4272-949d-9c76964dee12.png)
