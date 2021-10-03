@@ -7,10 +7,8 @@
 1. Combustible.
   - El costo se va a calcular segun la distancia del recorrido.
   - Tanque lleno de combustible tiene un recorrido máximo de 50km.
-  - S/10 costo por 1km.
 
 2. Capacidad de carga.
-  - El costo es unico, S/100.
   - 1 tonelada capacidad de carga.
 
    Se prodria plantear como reto optimizar la capacidad de carga.
@@ -27,10 +25,10 @@
 
 3. Transiciones.
 
-- Distancia máxima a los lados 9km.
-- Capacidad de recorrido 50km
-- Movimiento hacia los puntos no recorridos.
-- Si todos los puntos de entrega estan visitados, regresar al almacen por el camino más corto.
+- Distancia máxima que pueden recorrer los vehiculos de carga a los lados del almacen 9km.
+- Capacidad máxmia del recorrido del vehiculo de carga 50km
+- Los movimientos del vehiculo de carga son hacia los puntos no recorridos.
+- Si todos los puntos de entrega estan visitados, el vehiculo de carga debe regresar al almacen por el camino más corto.
 
 4. Espacio de Búsqueda.
 
