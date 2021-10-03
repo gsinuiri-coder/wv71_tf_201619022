@@ -34,7 +34,7 @@
 
 4. Espacio de Búsqueda.
 
-![espacio de busqueda - copia](https://user-images.githubusercontent.com/71910095/135762117-6d4905fe-bced-4272-949d-9c76964dee12.png)
+![Recurso 3](https://user-images.githubusercontent.com/71910095/135763317-dce967ed-37d8-4c5e-abf4-b5d7e6000f5b.png)
 
  ## Reporte de actividades.
  
@@ -49,3 +49,8 @@
 - Producir reporte de actividades.
 - Incluir URL de video en youtube (u otro servicio) no listado (compartido por URL, privado) en el archivo README.md de un video elaborado de máximo 1 minuto explicando actividades realizadas.
 
+## URL de video en youtube de actividades realizadas.
+
+1. Giancarlo Sinuiri
+
+https://youtu.be/9HgsGGiaqUw
