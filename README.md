@@ -17,6 +17,9 @@
 
 1. Estado inicial.
 
+Punto rojo: almacen.
+Punto verde: puntos  de entrega.
+
 ![inicial](https://user-images.githubusercontent.com/71910095/135761979-a8ce2089-fb20-47ef-a88e-bc791dbe1fa1.PNG)
 
 2. Estado final
