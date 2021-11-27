@@ -55,3 +55,10 @@ Punto verde: puntos  de entrega.
 1. Giancarlo Sinuiri
 
 https://youtu.be/9HgsGGiaqUw
+
+
+## Video TF.
+
+1. Giancarlo Sinuiri
+
+https://youtu.be/hDvPVP8wu6M
