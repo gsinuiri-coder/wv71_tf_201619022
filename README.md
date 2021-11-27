@@ -59,6 +59,6 @@ https://youtu.be/9HgsGGiaqUw
 
 ## Link Video TF.
 
-1. Giancarlo Sinuiri
+1. Giancarlo Sinuiri.
 
 https://youtu.be/hDvPVP8wu6M
